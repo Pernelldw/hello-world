@@ -1,2 +1,4 @@
 # hello-world
-New repo used for turtorial
+Hey, 
+
+My name is Dustin and I enjoy hiking and gaming.
